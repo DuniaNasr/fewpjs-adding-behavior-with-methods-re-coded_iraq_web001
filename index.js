@@ -22,14 +22,12 @@ class Bird{
    this.name=name;
   this.sex=sex;
 }
-bird.speak(){
+speak(){
   return "it's me";
 }
 
 }
-let cat=new Cat("pise","male");
-let dog=new Dog("pise","male");
-let bird=new Bird("pise","male");
+
 
 
 
