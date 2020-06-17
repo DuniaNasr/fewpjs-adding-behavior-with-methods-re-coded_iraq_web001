@@ -29,7 +29,7 @@ speak(){
    return `It's me! ${this.name}, the parrot!`;
  }
  else{
-   return `${this.name} says Squawk`;
+   return `${this.name} says squawk`;
  }
 }
 
