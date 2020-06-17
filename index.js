@@ -9,12 +9,12 @@ speak(){
 }
 }
 class Dog{
-  constructor(name,sex){
-   this.name=name;
-  this.sex=sex;
+constructor(name){
+  this.name=name;
+  
 }
 speak(){
-  return name="woof";
+  return ` ${this.name} says woof!`;
 }
 }
 class Bird{
