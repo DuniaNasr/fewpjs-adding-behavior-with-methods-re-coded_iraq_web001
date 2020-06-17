@@ -24,7 +24,7 @@ class Bird{
 }
 speak(){
  if(this.sex==="male"){
-   
+   return `it's me
  }
 }
 
